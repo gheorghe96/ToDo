@@ -23,7 +23,7 @@ struct todoApp: App {
     
     var body: some Scene {
         WindowGroup {
-            MainView()
+            AppView()
         }
     }
 }
